@@ -1,6 +1,26 @@
 {
   "dependencies": {
+    "autocannon": "^7.9.0",
     "express": "^4.18.1",
     "log4js": "^6.6.1"
-  }
+  },
+  "scripts": {
+    "test":"node archivo.js",
+    "start": "0x server.js"
+  },
+  "name": "clase32",
+  "version": "1.0.0",
+  "main": "archivo.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinezmassera/clase32.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinezmassera/clase32/issues"
+  },
+  "homepage": "https://github.com/martinezmassera/clase32#readme",
+  "description": ""
 }
